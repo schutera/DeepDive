@@ -9,5 +9,4 @@ dependencies:
     - pandas
     - matplotlib
     - seaborn
-    - random
     - importlib
