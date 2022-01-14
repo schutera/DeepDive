@@ -10,3 +10,4 @@ dependencies:
     - matplotlib
     - seaborn
     - importlib
+    - tensorflow
