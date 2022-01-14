@@ -59,7 +59,6 @@ Don't forget to give the project a star! Thanks again!
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
 
 
 
@@ -75,3 +74,6 @@ Mark Schutera - mark.schutera@gmail.com
 ## Acknowledgments
 
 So long, and thanks for all the fish.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
