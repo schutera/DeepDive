@@ -11,7 +11,7 @@ Here's why this project fits so well for this:
 * The project is hosted on binder so there is no setup necessary and students can directly run the project in their browser
 * It covers a fundamental tensorflow tutorial on MNIST, including essential validation approaches
 
-Of course, no one project will serve all levels of expertice since your needs may be different. This is an attempt to kickstart rookies. You may also contribute or suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this project so far!
+Of course, no one project will serve all levels of expertice since your needs may be different. This is an attempt to kickstart rookies. You may also contribute or suggest changes by forking this repo and creating a pull request or opening an issue. Thanks to all the people have contributed to expanding this project so far! You started your own deep learning projects and wonder 'why does my neural network not learn?' - here are my [coffee table solutions](https://www.amazon.de/dp/B09QRGWWZP) for you.
 
 
 ### Built With
