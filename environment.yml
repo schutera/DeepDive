@@ -6,8 +6,9 @@ dependencies:
   - numpy
   - pip
   - pip:
+    - tensorflow==2.7.0
     - pandas
     - matplotlib
     - seaborn
     - importlib
-    - tensorflow==2.7.0
+    
