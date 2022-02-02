@@ -2,7 +2,7 @@ name: juno.tf
 channels:
 - conda-forge
 dependencies:
-  - python
+  - python==3.7.3
   - numpy
   - pip
   - pip:
