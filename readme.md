@@ -33,21 +33,7 @@ Buckle up, click the button and off you go..
 
 ## Run it locally
 
-If you prefer to run the examples as a full-fledged 'project' on your *nix machine, `deep_dive` folder is the place to start.
-
-First, we'll create a [virtual environment](https://docs.python.org/3/library/venv.html):
-```
-python3 -m venv deep-dive-venv
-source deep-dive-venv/bin/activate
-```
-The examples rely heavily on a few 3rd party libraries such as numpy or TensorFlow mentioned previously. In order to install them, we'll use the supplied `requirements.txt` file. Assuming you're in the repository's root right now, issue the following (make sure the virtual environment is activated):
-```
-pip install -r deep_dive/requirements.txt
-```
-Now let's run our application thorough its main [entry point](https://en.wikipedia.org/wiki/Entry_point):
-```
-python -m deep_dive.src
-```
+If you prefer to run the examples as a full-fledged 'project' on your *nix machine, `deep_dive` folder is the place to start - please see the readme.md available there.
 
 
 <!-- ROADMAP -->
