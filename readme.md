@@ -31,6 +31,11 @@ Buckle up, click the button and off you go..
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/schutera/DeepDive/HEAD?filepath=%2FDeepDive.ipynb)
 
 
+## Run it locally
+
+If you prefer to run the examples as a full-fledged 'project' on your *nix machine, `deep_dive` folder is the place to start - please see the readme.md available there.
+
+
 <!-- ROADMAP -->
 ## Roadmap
 
